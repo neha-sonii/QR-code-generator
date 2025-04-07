@@ -21,4 +21,12 @@ A simple QR code generator built using Node.js and Npm. This application allows 
 ```
 #### Bash
 
-git clone 
+git clone https://github.com/neha-sonii/QR-code-generator.git
+cd QR-code-generator
+```
+
+## Install dependencies
+
+```
+npm install
+```
